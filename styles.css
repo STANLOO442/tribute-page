@@ -1,7 +1,14 @@
 /* Styling the body element*/
 body {
-background-color: #e8e4e0;
+
 height: 100%;
+background-color: #fffff1;
+}
+/* Styling the wrapper container*/
+.container{
+ width: 800px;
+ margin: auto;
+background-color: #e8e4e0;
 
 }
 
@@ -60,6 +67,8 @@ section {
         background: linear-gradient(.25turn, #0f322e, 70%, #296566);
         color: white;
         padding-left: 10px;
+        border-radius: 10px;
+        border-top-left-radius: 50px;
     
 }
 
